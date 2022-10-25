@@ -4,20 +4,27 @@
 Minicurso voltado para iniciantes, com ou sem nenhum conhecimento de Git e Github, nele será ensinado como utilizar o Git em projetos e como fazer a ligação do mesmo com o Github, a mais famosa rede social para código opensource.
 
 ## Ementa:
-1. O que é Git e Github
-2. Como instalar o Git
-3. Como criar uma conta no Github
-4. Como inicializar um repositório
-5. Como adicionar arquivos ao controle de versão
-6. Como criar versões do código com commit
-7. Como enviar alterações usando git push
-8. Ciclo de atualização de código
-9. Como verificar histórico de atualizações
-10. Como navegar entre versões do seu código
-11. O que são branches e como criar uma
-12. Git merge: Como unir o código
-13. Pull request: um merge democrático
-14. Gitignore: Como excluir arquivos do controle de versão
+### 1. Git e Github
+- O que é Git e Github
+- Como instalar o Git
+- Como criar uma conta no Github
+
+### 2. Repositório
+- Como inicializar um repositório
+- Como adicionar arquivos ao controle de versão
+- Como criar versões do código com commit
+- Como enviar alterações usando git push
+- Ciclo de atualização de código
+
+### 3. Histórico de Versões
+- Como verificar histórico de atualizações
+- Como navegar entre versões do seu código
+
+### 4. Comandos Git
+- O que são branches e como criar uma
+- Git merge: Como unir o código
+- Pull request: um merge democrático
+- Gitignore: Como excluir arquivos do controle de versão
 
 ## Ministrante:
 Juana Bozzetto [@jojobozz](https://github.com/jojobozz)
