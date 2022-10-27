@@ -14,9 +14,9 @@ Minicurso voltado para iniciantes, com ou sem nenhum conhecimento de Git e Githu
 - Como adicionar arquivos ao controle de versão
 - Como criar versões do código com commit
 - Como enviar alterações usando git push
-- Ciclo de atualização de código
 
 ### 3. Histórico de Versões
+- Ciclo de atualização de código
 - Como verificar histórico de atualizações
 - Como navegar entre versões do seu código
 
