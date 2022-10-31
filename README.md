@@ -3,6 +3,9 @@
 ## Descrição: 
 Minicurso voltado para iniciantes, com ou sem nenhum conhecimento de Git e Github, nele será ensinado como utilizar o Git em projetos e como fazer a ligação do mesmo com o Github, a mais famosa rede social para código opensource.
 
+## Ministrante:
+Juana Bozzetto [@jojobozz](https://github.com/jojobozz)
+
 ## Ementa:
 ### 1. Git e Github
 - O que é Git e Github
@@ -24,8 +27,7 @@ Minicurso voltado para iniciantes, com ou sem nenhum conhecimento de Git e Githu
 - O que são branches e como criar uma
 - Git merge: Como unir o código
 - Pull request: um merge democrático
-- Gitignore: Como excluir arquivos do controle de versão
 
-## Ministrante:
-Juana Bozzetto [@jojobozz](https://github.com/jojobozz)
-
+## Referências
+- Dev Aprender: [Curso de Git e GitHub para Iniciantes](https://youtu.be/kB5e-gTAl_s)
+- The Carpentries: [Version Control with Git](https://swcarpentry.github.io/git-novice/index.html)
